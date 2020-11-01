@@ -1,0 +1,68 @@
+body{
+    background-color:#b0e0e6;
+}
+.h1{
+    text-align: center;
+    color: black;
+}
+
+
+
+.container{
+    max-width: 900px;
+    margin: 0 auto;
+    background: #e5e0f2;
+    font-size: 22px;
+    padding: 23px;
+}
+.parallax{
+    background: url('Images/veena.jpg') no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
+}
+
+.parallax1{
+    background: url('Images/flute.jfif') no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
+}
+
+.container1{
+    max-width: 960px;
+    margin: 0 auto;
+    background: #e5e0f2;
+    font-size: 24px;
+    padding: 25px;
+}
+
+.parallax2{
+    background: url('Images/wooden-dholak.jpg') no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
+}
+
+.container2{
+    max-width: 960px;
+    margin: 0 auto;
+    background: #e5e0f2;
+    font-size: 24px;
+    padding: 25px;
+}
+
+.parallax3{
+    background: url('Images/guitar.jpg') no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
+}
+
+.container3{
+    max-width: 960px;
+    margin: 0 auto;
+    background: #e5e0f2;
+    font-size: 24px;
+    padding: 25px;
+}

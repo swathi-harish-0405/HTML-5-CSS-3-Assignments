@@ -1,0 +1,66 @@
+body,html{
+    background-color:#f9f0f0;
+}
+.h1{
+    text-aline:center;
+    color:black;
+}
+
+
+.container{
+     max-width:900px;
+     margin:0 auto;
+     background-color:#cccccc;
+     font-size:20px;
+     padding:21px;
+     
+}
+.parallax{
+    background:url('Images/Niagara-falls.jpg')
+   no-repeat center;
+    background-size:cover;
+    background-attachement:fixed;
+   
+    height:500px;
+}
+
+.container1{ 
+     max-width:900px;
+     margin:0 auto;
+     background-color:#cccccc;
+     font-size:20px;
+     padding:21px;
+}
+.parallax1{
+     background:url('Images/niagara falls 1.jpg')
+no-repeat center;
+    background-size:cover;
+    background-attachement:fixed;
+    height:500px;
+}
+.container2{
+     max-width:900px;
+     margin:0 auto;
+     background-color:#cccccc;
+     font-size:20px;
+     padding:21px;
+}
+.parallax2{                  background:url('Images/niagara falls 2.jpg')
+no-repeat center;
+    background-size:cover;
+    background-attachement:fixed;
+    height:500px;
+}
+.container3{
+     max-width:900px;
+     margin:0 auto;
+     background-color:#cccccc;
+     font-size:20px;
+     padding:21px;
+}
+.parallax3{                      background:url('Images/niagara falls 3.jpg')
+no-repeat center;
+    background-size:cover;
+    background-attachement:fixed;
+    height:500px;
+}
